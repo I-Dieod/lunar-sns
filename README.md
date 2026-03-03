@@ -196,7 +196,7 @@ lunar-sns/
 - Twitter DMでご連絡
 - Discordサーバーよりご連絡  
 
-https://discord.gg/VKvYnqCAtT
+https://discord.gg/r4X3mZnHdw
 
 ## 📜 ライセンス
 
